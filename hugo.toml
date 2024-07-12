@@ -1,0 +1,4 @@
+baseURL = 'joelfrancisco.dev'
+languageCode = 'en-us'
+title = 'Joel Francisco'
+theme = 'lugo'
